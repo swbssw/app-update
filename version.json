@@ -2,5 +2,5 @@
   "versionCode": 1,
   "versionName": "V1.0",
   "updateDesc": "初始版本，支持基础聊天和文档解析",
-  "downloadUrl": "https://raw.githubusercontent.com/swbssw/app-update/main/app-release.apk"
+  "downloadUrl": "https://github.com/swbssw/app-update/releases/download/apk/app-release.apk"
 }
